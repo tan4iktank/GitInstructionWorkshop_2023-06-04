@@ -1,5 +1,7 @@
 # Инструкция по работе с git
 
+Есть разница
+
 ## Seminar 1
 
 *git init* - initialize local repository
